@@ -1,2 +1,6 @@
-<img src=”https://user-images.githubusercontent.com/100090152/176462279-2fad26a8-c0d8-48b6-9237-04a10e6fceec.png" alt=”my banner”>
-<h1>I Like Doing Stuff</h1>
+<h1 align="center">MU</h1>
+
+<h4 align="center">About Me</h4>
+<p align="center">I am a high school student, who has interests in IT.</p>
+
+<img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=IamMU&show_icons=true&theme=vision-friendly-dark" align="center">
